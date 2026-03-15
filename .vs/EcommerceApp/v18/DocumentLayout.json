@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\KIIT\\Desktop\\WiproTraining\\EcommerceApp\\",
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\source\\repos\\NEXMART\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|Backend\\EcommerceApp.csproj|c:\\users\\kiit\\desktop\\wiprotraining\\ecommerceapp\\backend\\util\\dbutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|Backend\\EcommerceApp.csproj|solutionrelative:backend\\util\\dbutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|Backend\\EcommerceApp.csproj|c:\\users\\kiit\\desktop\\wiprotraining\\ecommerceapp\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|Backend\\EcommerceApp.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|Backend\\EcommerceApp.csproj|c:\\users\\kiit\\desktop\\wiprotraining\\ecommerceapp\\backend\\database_setup.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|Backend\\EcommerceApp.csproj|solutionrelative:backend\\database_setup.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|Backend\\EcommerceApp.csproj|c:\\users\\kiit\\desktop\\wiprotraining\\ecommerceapp\\backend\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|Backend\\EcommerceApp.csproj|solutionrelative:backend\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|Backend\\EcommerceApp.csproj|c:\\users\\kiit\\desktop\\wiprotraining\\ecommerceapp\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|Backend\\EcommerceApp.csproj|c:\\users\\kiit\\source\\repos\\nexmart\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|Backend\\EcommerceApp.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|Backend\\EcommerceApp.csproj|c:\\users\\kiit\\desktop\\wiprotraining\\ecommerceapp\\backend\\database_setup.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|Backend\\EcommerceApp.csproj|c:\\users\\kiit\\source\\repos\\nexmart\\backend\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|Backend\\EcommerceApp.csproj|solutionrelative:backend\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|Backend\\EcommerceApp.csproj|c:\\users\\kiit\\source\\repos\\nexmart\\backend\\database_setup.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|Backend\\EcommerceApp.csproj|solutionrelative:backend\\database_setup.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|Backend\\EcommerceApp.csproj|c:\\users\\kiit\\source\\repos\\nexmart\\backend\\util\\dbutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|Backend\\EcommerceApp.csproj|solutionrelative:backend\\util\\dbutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|Backend\\EcommerceApp.csproj|c:\\users\\kiit\\source\\repos\\nexmart\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|Backend\\EcommerceApp.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|Backend\\EcommerceApp.csproj|c:\\users\\kiit\\source\\repos\\nexmart\\backend\\database_setup.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
       "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|Backend\\EcommerceApp.csproj|solutionrelative:backend\\database_setup.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
@@ -34,30 +34,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "DBUtil.cs",
-              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\WiproTraining\\EcommerceApp\\Backend\\Util\\DBUtil.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\NEXMART\\Backend\\Util\\DBUtil.cs",
               "RelativeDocumentMoniker": "Backend\\Util\\DBUtil.cs",
-              "ToolTip": "C:\\Users\\KIIT\\Desktop\\WiproTraining\\EcommerceApp\\Backend\\Util\\DBUtil.cs",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\NEXMART\\Backend\\Util\\DBUtil.cs",
               "RelativeToolTip": "Backend\\Util\\DBUtil.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-27T06:29:46.055Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\WiproTraining\\EcommerceApp\\Backend\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\NEXMART\\Backend\\appsettings.json",
               "RelativeDocumentMoniker": "Backend\\appsettings.json",
-              "ToolTip": "C:\\Users\\KIIT\\Desktop\\WiproTraining\\EcommerceApp\\Backend\\appsettings.json",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\NEXMART\\Backend\\appsettings.json",
               "RelativeToolTip": "Backend\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-02-27T06:29:44.01Z",
               "EditorCaption": ""
@@ -66,9 +70,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "database_setup.sql ",
-              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\WiproTraining\\EcommerceApp\\Backend\\database_setup.sql",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\NEXMART\\Backend\\database_setup.sql",
               "RelativeDocumentMoniker": "Backend\\database_setup.sql",
-              "ToolTip": "C:\\Users\\KIIT\\Desktop\\WiproTraining\\EcommerceApp\\Backend\\database_setup.sql",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\NEXMART\\Backend\\database_setup.sql",
               "RelativeToolTip": "Backend\\database_setup.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2026-02-27T06:29:25.993Z",
@@ -76,11 +80,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\WiproTraining\\EcommerceApp\\Backend\\wwwroot\\index.html",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\NEXMART\\Backend\\wwwroot\\index.html",
               "RelativeDocumentMoniker": "Backend\\wwwroot\\index.html",
-              "ToolTip": "C:\\Users\\KIIT\\Desktop\\WiproTraining\\EcommerceApp\\Backend\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\NEXMART\\Backend\\wwwroot\\index.html",
               "RelativeToolTip": "Backend\\wwwroot\\index.html",
               "ViewState": "AgIAAJcJAAAAAAAAAAAgwLoJAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -89,13 +93,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\WiproTraining\\EcommerceApp\\Backend\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\NEXMART\\Backend\\Program.cs",
               "RelativeDocumentMoniker": "Backend\\Program.cs",
-              "ToolTip": "C:\\Users\\KIIT\\Desktop\\WiproTraining\\EcommerceApp\\Backend\\Program.cs",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\NEXMART\\Backend\\Program.cs",
               "RelativeToolTip": "Backend\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-27T06:00:25.642Z",
               "EditorCaption": ""

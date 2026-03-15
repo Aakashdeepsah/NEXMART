@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KIIT\\Desktop\\WiproTraining\\EcommerceApp\\Tests\\EcommerceApp.Tests.csproj": {}
+    "C:\\Users\\KIIT\\source\\repos\\NEXMART\\Tests\\EcommerceApp.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KIIT\\Desktop\\WiproTraining\\EcommerceApp\\Backend\\EcommerceApp.csproj": {
+    "C:\\Users\\KIIT\\source\\repos\\NEXMART\\Backend\\EcommerceApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KIIT\\Desktop\\WiproTraining\\EcommerceApp\\Backend\\EcommerceApp.csproj",
+        "projectUniqueName": "C:\\Users\\KIIT\\source\\repos\\NEXMART\\Backend\\EcommerceApp.csproj",
         "projectName": "EcommerceApp",
-        "projectPath": "C:\\Users\\KIIT\\Desktop\\WiproTraining\\EcommerceApp\\Backend\\EcommerceApp.csproj",
+        "projectPath": "C:\\Users\\KIIT\\source\\repos\\NEXMART\\Backend\\EcommerceApp.csproj",
         "packagesPath": "C:\\Users\\KIIT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KIIT\\Desktop\\WiproTraining\\EcommerceApp\\Backend\\obj\\",
+        "outputPath": "C:\\Users\\KIIT\\source\\repos\\NEXMART\\Backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.200"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -74,24 +75,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.23, 8.0.23]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[8.0.23, 8.0.23]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[8.0.23, 8.0.23]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[8.0.23, 8.0.23]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -100,18 +83,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.200-preview.0.26103.119/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\KIIT\\Desktop\\WiproTraining\\EcommerceApp\\Tests\\EcommerceApp.Tests.csproj": {
+    "C:\\Users\\KIIT\\source\\repos\\NEXMART\\Tests\\EcommerceApp.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KIIT\\Desktop\\WiproTraining\\EcommerceApp\\Tests\\EcommerceApp.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\KIIT\\source\\repos\\NEXMART\\Tests\\EcommerceApp.Tests.csproj",
         "projectName": "EcommerceApp.Tests",
-        "projectPath": "C:\\Users\\KIIT\\Desktop\\WiproTraining\\EcommerceApp\\Tests\\EcommerceApp.Tests.csproj",
+        "projectPath": "C:\\Users\\KIIT\\source\\repos\\NEXMART\\Tests\\EcommerceApp.Tests.csproj",
         "packagesPath": "C:\\Users\\KIIT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KIIT\\Desktop\\WiproTraining\\EcommerceApp\\Tests\\obj\\",
+        "outputPath": "C:\\Users\\KIIT\\source\\repos\\NEXMART\\Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -126,14 +109,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\KIIT\\Desktop\\WiproTraining\\EcommerceApp\\Backend\\EcommerceApp.csproj": {
-                "projectPath": "C:\\Users\\KIIT\\Desktop\\WiproTraining\\EcommerceApp\\Backend\\EcommerceApp.csproj"
+              "C:\\Users\\KIIT\\source\\repos\\NEXMART\\Backend\\EcommerceApp.csproj": {
+                "projectPath": "C:\\Users\\KIIT\\source\\repos\\NEXMART\\Backend\\EcommerceApp.csproj"
               }
             }
           }
@@ -148,7 +132,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.200"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -190,26 +174,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.23, 8.0.23]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[8.0.23, 8.0.23]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[8.0.23, 8.0.23]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.200-preview.0.26103.119/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
